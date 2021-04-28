@@ -1,2 +1,2 @@
-# Simple-authentication-system
-Using php to create a system of a authentication through a database
+# MapleBear
+Arquivos do Site da Maple. Incluí home, autenticação e subdomínios.
